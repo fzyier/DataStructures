@@ -1,4 +1,4 @@
-📚📈 Welcome to my data structures repository! 🌟
+### Welcome to my data structures repository!
 
 This repository contains implementations of essential data structures, including Linked Lists, Stacks, Queues, Trees, and Graphs. The purpose of this repository is to help you understand these data structures and provide you with a training ground to practice implementing them.
 
